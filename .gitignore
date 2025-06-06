@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+# Node and build folders
+node_modules/
+dist/
+build/
+
